@@ -1,0 +1,11 @@
+Model Information:
+* title:	Braun TP1 - Radio
+* source:	https://sketchfab.com/3d-models/braun-tp1-radio-a04fcf2582484f29b88a0ea9da768f7f
+* author:	JLRIN (https://sketchfab.com/JLRIN)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Braun TP1 - Radio" (https://sketchfab.com/3d-models/braun-tp1-radio-a04fcf2582484f29b88a0ea9da768f7f) by JLRIN (https://sketchfab.com/JLRIN) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

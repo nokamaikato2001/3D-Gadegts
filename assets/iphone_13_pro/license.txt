@@ -1,0 +1,11 @@
+Model Information:
+* title:	Iphone 13 Pro
+* source:	https://sketchfab.com/3d-models/iphone-13-pro-537a96f9c4f04856bc3ea18269a9f214
+* author:	gabrieljuan0322 (https://sketchfab.com/gabrieljuan0322)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Iphone 13 Pro" (https://sketchfab.com/3d-models/iphone-13-pro-537a96f9c4f04856bc3ea18269a9f214) by gabrieljuan0322 (https://sketchfab.com/gabrieljuan0322) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
